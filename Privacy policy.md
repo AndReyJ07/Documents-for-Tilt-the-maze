@@ -53,7 +53,7 @@ Apllication does not collect or use any of your Personal Data.
 Application requires access to Your Device's Local Storage for saving and loading
 saved game data.
 
-# **Internet access**
+# **Internet connection**
 
 Application requires internet connection to load and show ads.
 
