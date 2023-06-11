@@ -53,6 +53,10 @@ Apllication does not collect or use any of your Personal Data.
 Application requires access to Your Device's Local Storage for saving and loading
 saved game data.
 
+# **Internet access
+
+Application requires internet access to load and show ads.
+
 # **Children's Privacy**
 
 Our Service does not address anyone under the age of 13. We do not knowingly
