@@ -55,7 +55,7 @@ saved game data.
 
 # **Internet access**
 
-Application requires internet access to load and show ads.
+Application requires internet connection to load and show ads.
 
 # **Children's Privacy**
 
