@@ -2,7 +2,7 @@
 
 ## Terms and Conditions
 
-Last modified: MAY 27, 2023
+Last modified: June 17, 2023
 
 **IMPORTANT - READ CAREFULLY**: These Terms of Use ("**Terms**") is a legal agreement
 between you ("**you**" or "**your**") and Landery Games (Andrii Lizunov) and governs
