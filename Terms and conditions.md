@@ -57,7 +57,7 @@ the **Services** may be disabled.
 
 As described in our [Privacy Policy](https://github.com/AndReyJ07/Documents-for-Tilt-the-maze/blob/main/Privacy%20policy.md), we will either provide a version of that **Game** that does not
 collect, use, or disclose your personal information, except as permitted by applicable data protection
-laws, including without limitation the Children's Online Privacy Protection Act, or obtai legally
+laws, including without limitation the Children's Online Privacy Protection Act, or obtain legally
 valid parental consent prior to collecting, using or disclosing your personal information.
 
 You are responsible for the internet connection and/or mobile charges that you may incur for accessing
