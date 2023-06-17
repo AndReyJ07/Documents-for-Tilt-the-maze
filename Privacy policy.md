@@ -45,8 +45,13 @@ behalf of which such indivual is accessing or using the Service, as applicable.
 - **Local Storage** refers to the local storage of Your Device.
 
 # **Collecting and Using Your Personal Data**
+We use Google Mobile Ads SDK for showing ads. The Google Mobile Ads SDK collects and shares the following data types automatically for advertising, analytics, and fraud prevention purposes:
+- **IP-Address**: collects Device's IP address, which may be used to estimate the general location of a Device;
+- **User product interactions**: collects user product interactions and interaction information, including Application launch, taps, and video views;
+- **Diagnostic information**: collects information related to the performance of the Application and the SDK, including crash logs, Application launch time, hang rate, and energy usage;
+- **Device and Account identifiers**: collects Android advertising (ad) ID, Application set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
 
-Apllication does not collect or use any of your Personal Data.
+All of your data collected by Google Mobile Ads SDK is encrypted in transit using the Transport Layer Security (TLS) protocol.
 
 # **Access to Local Storage**
 
