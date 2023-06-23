@@ -2,7 +2,7 @@
 
 # **Privacy Policy**
 
-Last updated: June 17, 2023
+Last updated: June 24, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use
 and disclosure of Your information when You use the Service and tells You about
@@ -60,7 +60,7 @@ saved game data.
 
 # **Internet connection**
 
-Application requires internet connection to load and show ads.
+Application requires internet connection and network state status to load and show ads.
 
 # **Children's Privacy**
 
